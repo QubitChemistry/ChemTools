@@ -1,4 +1,6 @@
-# ChemTools JavaScript
+![ChemTools Logo](img/ChemTools-logo.png)
+
+# ChemTools
 
 Tools for Organic Chemistry
 

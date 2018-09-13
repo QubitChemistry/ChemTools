@@ -26,3 +26,4 @@ while you're typing, an algorithm already calculates every input you type and di
 ## The Future 
 
 - [ ] Structural-to-Skeletal, this means that you can type your Structural formula and it will be converted automatically to the Skeletal formula.
+- [ ] Chem of the Day, each day a random Chem gets displayed on the front page with his properties. (The random hash is going to be generated from the Dateformat DD/MM/YYYY)

@@ -8,6 +8,8 @@ Feel free to use ChemTools for teaching Organic Chemistry as an example.
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes.
 The Reason why I build ChemTools was, because there weren't good Organic Chemistry Tools in the Web.
 
+![ChemTools Logo](Images/ChemTools-v1-Image.png)
+
 ## TODO : More to come
 
 ## As efficient as possible ⚙

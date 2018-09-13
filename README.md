@@ -1,6 +1,6 @@
 ![ChemTools Logo](img/ChemTools-logo.png)
 
-# ChemTools
+# 🔬 ChemTools ⚗️
 
 Tools for Organic Chemistry
 
@@ -23,7 +23,7 @@ while you're typing, an algorithm already calculates every input you type and di
 - Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 - At vero eos et accusam et justo duo dolores et ea rebum.
 
-## The Future 
+## The Future 💡
 
 - [ ] Structural-to-Skeletal, this means that you can type your Structural formula and it will be converted automatically to the Skeletal formula.
 - [ ] Chem of the Day, each day a random Chem gets displayed on the front page with his properties. (The random hash is going to be generated from the Dateformat DD/MM/YYYY)

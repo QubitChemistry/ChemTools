@@ -453,7 +453,7 @@ a:active {
 
 .StereoChemImage{
   height:200px;
-  padding-right:50px;
+  margin-right:-20px;
   margin-top:40px;
 } 
 

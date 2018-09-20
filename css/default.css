@@ -484,3 +484,9 @@ header h1{
     background-color: rgba(135, 193, 230, 1);
     box-shadow: 0 6px rgba(135, 193, 230, 0.7);
 }
+
+#Structure-Formula{
+  border:10px solid #00aca8;
+  width:300px;
+  font-size:40px;
+}

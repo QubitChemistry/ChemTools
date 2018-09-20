@@ -445,6 +445,22 @@ a:active {
 
 }
 
+.ChemImage{
+  padding-top:10px;
+  height:150px;
+  margin-bottom:10px;
+}
+
+.StereoChemImage{
+  height:200px;
+  padding-right:50px;
+  margin-top:40px;
+} 
+
+.StereoChemImageZoomOut{
+  height:200px;
+}
+
 header h1{
   color:#00aca8;
 }

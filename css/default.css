@@ -187,6 +187,13 @@ a:active {
 	font-weight: bold;
 }
 
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #ffffff !important;
+  border-radius: 0.3rem;
+}
+
 @media screen and (max-width: 25em) {
 
 	.codrops-icon span {

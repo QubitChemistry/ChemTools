@@ -15,7 +15,7 @@ that are **completely free** and don't need to be downloaded.</br>
 - ***Laptop (Chrome, Firefox, Edge, Safari) 💻***
 - ***Destkop (Chrome, Firefox, Edge, Safari) 🖥***
 
-![ChemTools Logo](Images/ChemTools-v1-Image.png)
+![ChemTools Logo](Images/ChemTools-v2-Image.png)
 
 ## TODO : More to come
 

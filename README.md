@@ -7,7 +7,8 @@
 Feel free to use **ChemTools** for teaching **Organic Chemistry** as an example.
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes. </br>
 The Reason why I build **ChemTools** was, because there weren't good **Organic Chemistry** Tools in the Web,
-that are **completely free** and don't need to be downloaded, because **it's just a Website** that each possible device can access to.</br>
+that are **completely free** and don't need to be downloaded.</br>
+**ChemTools is just a Website** that each possible device can access to.</br>
 ## ***You can use ChemTools on your: 📱 💻 🖥***
 - ***Smartphone (Android/iOS etc.) 📱***
 - ***Tablet (Chrome, Firefox, Edge, Safari) 📱***

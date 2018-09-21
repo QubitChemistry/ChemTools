@@ -17,14 +17,12 @@ that are **completely free** and don't need to be downloaded.</br>
 
 ![ChemTools Logo](Images/ChemTools-v2-Image.png)
 
-## TODO : More to come
-
 ## As efficient as possible ⚙
 
 The Tools are designed to give responses on every action,
 while you're typing, an algorithm already calculates every input you type and displays the result.
 
-## TODO : ChemTools allows you to
+## ChemTools allows you to
 
 - At vero eos et accusam et justo duo dolores et ea rebum.
 - Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

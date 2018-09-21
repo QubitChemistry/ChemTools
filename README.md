@@ -22,7 +22,7 @@ that are **completely free** and don't need to be downloaded.</br>
 The Tools are designed to give responses on every action,
 while you're typing, an algorithm already calculates every input you type and displays the result.
 
-## ChemTools allows you to
+## ChemTools allows you to: 🔬 
 
 - At vero eos et accusam et justo duo dolores et ea rebum.
 - Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
